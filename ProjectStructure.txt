@@ -1,0 +1,19 @@
+📂 tailwind-project/
+│── 📂 src/                   # Source files
+│   ├── 📂 assets/            # Static assets (images, fonts, etc.)
+│   ├── 📂 css/               # Tailwind CSS styles
+│   │   ├── input.css         # Tailwind CSS entry file
+│   │   ├── custom.css        # Custom styles (if needed)
+│   ├── 📂 components/        # Reusable UI components
+│   │   ├── button.html       # Example UI component
+│   │   ├── navbar.html       # Navbar component
+│   ├── index.html            # Main HTML file
+│── 📂 public/                 # Public assets (favicons, robots.txt, etc.)
+│   ├── favicon.ico           
+│── 📂 dist/                   # Compiled output (ignored in Git)
+│── 📂 node_modules/           # Dependencies (ignored in Git)
+│── tailwind.config.js         # Tailwind configuration file
+│── postcss.config.js          # PostCSS configuration
+│── package.json               # Project dependencies
+│── .gitignore                 # Files to ignore in Git
+│── README.md                  # Project documentation

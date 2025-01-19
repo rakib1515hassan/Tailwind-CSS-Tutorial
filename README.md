@@ -12,3 +12,8 @@ npm i -D tailwindcss
 ```bash
 npx tailwindcss init
 ```
+
+## 4. Build Tailwind CSS
+```bash
+npm run build
+```
