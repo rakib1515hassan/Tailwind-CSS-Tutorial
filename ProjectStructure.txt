@@ -12,4 +12,3 @@
 │── postcss.config.js          # PostCSS configuration
 │── .gitignore                 # Files to ignore in Git
 │── README.md                  # Project documentation
-
