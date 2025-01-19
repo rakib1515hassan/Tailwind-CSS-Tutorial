@@ -1,0 +1,59 @@
+# Node modules
+node_modules/
+
+
+# Tailwind CSS build files
+public/css/*.css
+public/css/*.css.map
+dist/
+build/
+out/
+
+# Next.js or Vite build output
+.next/
+.vercel/
+.vite/
+.vitest/
+
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-error.log
+yarn-debug.log*
+pnpm-debug.log*
+
+
+# Editor and OS-specific files
+.vscode/
+.idea/
+.idea/
+*.swp
+*.swo
+
+
+# System files
+.DS_Store
+Thumbs.db
+
+
+# Tailwind JIT cache
+.tailwind/
+
+
+# Lock files (optional, if you want consistent dependencies)
+package-lock.json
+yarn.lock
+
+
+# Miscellaneous
+coverage/
+*.tgz
+*.cache
